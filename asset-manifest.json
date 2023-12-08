@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/swiggy/static/css/main.cc3262d2.css",
-    "main.js": "/swiggy/static/js/main.d13c7b22.js",
+    "main.js": "/swiggy/static/js/main.4eff6154.js",
     "index.html": "/swiggy/index.html",
     "main.cc3262d2.css.map": "/swiggy/static/css/main.cc3262d2.css.map",
-    "main.d13c7b22.js.map": "/swiggy/static/js/main.d13c7b22.js.map"
+    "main.4eff6154.js.map": "/swiggy/static/js/main.4eff6154.js.map"
   },
   "entrypoints": [
     "static/css/main.cc3262d2.css",
-    "static/js/main.d13c7b22.js"
+    "static/js/main.4eff6154.js"
   ]
 }
